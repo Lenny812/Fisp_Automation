@@ -14,7 +14,7 @@ A web-based tool for generating NYC DOB-compliant Facade Inspection Safety Progr
 - Generates downloadable Word documents
 
 ## Status
-🚧 In Development - Initial Report type
+In Development - Initial Report type
 
 ## Coming Soon
 - Amended reports
